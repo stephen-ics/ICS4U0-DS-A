@@ -1,0 +1,592 @@
+[
+    {
+      "id": 7,
+      "name": {
+        "english": "Squirtle",
+        "french": "Carapuce"
+      },
+      "description": "When it retracts its long neck into its shell, it squirts out water with vigorous force.",
+      "type": [
+        "Water"
+      ],
+      "base": {
+        "HP": 44,
+        "Attack": 48,
+        "Defense": 65,
+        "Sp. Attack": 50,
+        "Sp. Defense": 64,
+        "Speed": 43
+      }
+    },
+    {
+      "id": 2,
+      "name": {
+        "english": "Ivysaur",
+        "french": "Herbizarre"
+      },
+      "description": "a cool description",
+      "type": [
+        "Grass",
+        "Poison"
+      ],
+      "base": {
+        "HP": 60,
+        "Attack": 62,
+        "Defense": 63,
+        "Sp. Attack": 80,
+        "Sp. Defense": 80,
+        "Speed": 60
+      }
+    },
+    {
+      "id": 3,
+      "name": {
+        "english": "Venusaur",
+        "french": "Florizarre"
+      },
+      "description": "a cool description",
+      "type": [
+        "Grass",
+        "Poison"
+      ],
+      "base": {
+        "HP": 80,
+        "Attack": 82,
+        "Defense": 83,
+        "Sp. Attack": 100,
+        "Sp. Defense": 100,
+        "Speed": 80
+      }
+    },
+    {
+      "id": 7,
+      "name": {
+        "english": "Squirtle",
+        "french": "Carapuce"
+      },
+      "description": "When it retracts its long neck into its shell, it squirts out water with vigorous force.",
+      "type": [
+        "Water"
+      ],
+      "base": {
+        "HP": 44,
+        "Attack": 48,
+        "Defense": 65,
+        "Sp. Attack": 50,
+        "Sp. Defense": 64,
+        "Speed": 43
+      }
+    },
+    {
+      "id": 7,
+      "name": {
+        "english": "Squirtle",
+        "french": "Carapuce"
+      },
+      "description": "When it retracts its long neck into its shell, it squirts out water with vigorous force.",
+      "type": [
+        "Water"
+      ],
+      "base": {
+        "HP": 44,
+        "Attack": 48,
+        "Defense": 65,
+        "Sp. Attack": 50,
+        "Sp. Defense": 64,
+        "Speed": 43
+      }
+    },
+    {
+      "id": 7,
+      "name": {
+        "english": "Squirtle",
+        "french": "Carapuce"
+      },
+      "description": "When it retracts its long neck into its shell, it squirts out water with vigorous force.",
+      "type": [
+        "Water"
+      ],
+      "base": {
+        "HP": 44,
+        "Attack": 48,
+        "Defense": 65,
+        "Sp. Attack": 50,
+        "Sp. Defense": 64,
+        "Speed": 43
+      }
+    },
+    [
+      {
+        "id": 8,
+        "name": {
+          "english": "Wartortle",
+          "japanese": "\u30ab\u30e1\u30fc\u30eb",
+          "chinese": "\u5361\u54aa\u9f9f",
+          "french": "Carabaffe"
+        },
+        "type": [
+          "Water"
+        ],
+        "base": {
+          "HP": 59,
+          "Attack": 63,
+          "Defense": 80,
+          "Sp. Attack": 65,
+          "Sp. Defense": 80,
+          "Speed": 58
+        }
+      }
+    ],
+    {
+      "id": 7,
+      "name": {
+        "english": "Squirtle",
+        "french": "Carapuce"
+      },
+      "description": "When it retracts its long neck into its shell, it squirts out water with vigorous force.",
+      "type": [
+        "Water"
+      ],
+      "base": {
+        "HP": 44,
+        "Attack": 48,
+        "Defense": 65,
+        "Sp. Attack": 50,
+        "Sp. Defense": 64,
+        "Speed": 43
+      }
+    },
+    [
+      {
+        "id": 8,
+        "name": {
+          "english": "Wartortle",
+          "japanese": "\u30ab\u30e1\u30fc\u30eb",
+          "chinese": "\u5361\u54aa\u9f9f",
+          "french": "Carabaffe"
+        },
+        "type": [
+          "Water"
+        ],
+        "base": {
+          "HP": 59,
+          "Attack": 63,
+          "Defense": 80,
+          "Sp. Attack": 65,
+          "Sp. Defense": 80,
+          "Speed": 58
+        }
+      }
+    ],
+    {
+      "id": 7,
+      "name": {
+        "english": "Squirtle",
+        "french": "Carapuce"
+      },
+      "description": "When it retracts its long neck into its shell, it squirts out water with vigorous force.",
+      "type": [
+        "Water"
+      ],
+      "base": {
+        "HP": 44,
+        "Attack": 48,
+        "Defense": 65,
+        "Sp. Attack": 50,
+        "Sp. Defense": 64,
+        "Speed": 43
+      }
+    },
+    [
+      {
+        "id": 8,
+        "name": {
+          "english": "Wartortle",
+          "japanese": "\u30ab\u30e1\u30fc\u30eb",
+          "chinese": "\u5361\u54aa\u9f9f",
+          "french": "Carabaffe"
+        },
+        "type": [
+          "Water"
+        ],
+        "base": {
+          "HP": 59,
+          "Attack": 63,
+          "Defense": 80,
+          "Sp. Attack": 65,
+          "Sp. Defense": 80,
+          "Speed": 58
+        }
+      }
+    ],
+    {
+      "id": 7,
+      "name": {
+        "english": "Squirtle",
+        "french": "Carapuce"
+      },
+      "description": "When it retracts its long neck into its shell, it squirts out water with vigorous force.",
+      "type": [
+        "Water"
+      ],
+      "base": {
+        "HP": 44,
+        "Attack": 48,
+        "Defense": 65,
+        "Sp. Attack": 50,
+        "Sp. Defense": 64,
+        "Speed": 43
+      }
+    },
+    [
+      {
+        "id": 8,
+        "name": {
+          "english": "Wartortle",
+          "japanese": "\u30ab\u30e1\u30fc\u30eb",
+          "chinese": "\u5361\u54aa\u9f9f",
+          "french": "Carabaffe"
+        },
+        "type": [
+          "Water"
+        ],
+        "base": {
+          "HP": 59,
+          "Attack": 63,
+          "Defense": 80,
+          "Sp. Attack": 65,
+          "Sp. Defense": 80,
+          "Speed": 58
+        }
+      }
+    ],
+    {
+      "id": 7,
+      "name": {
+        "english": "Squirtle",
+        "french": "Carapuce"
+      },
+      "description": "When it retracts its long neck into its shell, it squirts out water with vigorous force.",
+      "type": [
+        "Water"
+      ],
+      "base": {
+        "HP": 44,
+        "Attack": 48,
+        "Defense": 65,
+        "Sp. Attack": 50,
+        "Sp. Defense": 64,
+        "Speed": 43
+      }
+    },
+    {
+      "id": 7,
+      "name": {
+        "english": "Squirtle",
+        "french": "Carapuce"
+      },
+      "description": "When it retracts its long neck into its shell, it squirts out water with vigorous force.",
+      "type": [
+        "Water"
+      ],
+      "base": {
+        "HP": 44,
+        "Attack": 48,
+        "Defense": 65,
+        "Sp. Attack": 50,
+        "Sp. Defense": 64,
+        "Speed": 43
+      }
+    },
+    {
+      "id": 7,
+      "name": {
+        "english": "Squirtle",
+        "french": "Carapuce"
+      },
+      "description": "When it retracts its long neck into its shell, it squirts out water with vigorous force.",
+      "type": [
+        "Water"
+      ],
+      "base": {
+        "HP": 44,
+        "Attack": 48,
+        "Defense": 65,
+        "Sp. Attack": 50,
+        "Sp. Defense": 64,
+        "Speed": 43
+      }
+    },
+    {
+      "id": 7,
+      "name": {
+        "english": "Squirtle",
+        "french": "Carapuce"
+      },
+      "description": "When it retracts its long neck into its shell, it squirts out water with vigorous force.",
+      "type": [
+        "Water"
+      ],
+      "base": {
+        "HP": 44,
+        "Attack": 48,
+        "Defense": 65,
+        "Sp. Attack": 50,
+        "Sp. Defense": 64,
+        "Speed": 43
+      }
+    },
+    [
+      {
+        "id": 8,
+        "name": {
+          "english": "Wartortle",
+          "french": "Carabaffe"
+        },
+        "type": [
+          "Water"
+        ],
+        "base": {
+          "HP": 59,
+          "Attack": 63,
+          "Defense": 80,
+          "Sp. Attack": 65,
+          "Sp. Defense": 80,
+          "Speed": 58
+        }
+      }
+    ],
+    {
+      "id": 7,
+      "name": {
+        "english": "Squirtle",
+        "french": "Carapuce"
+      },
+      "description": "When it retracts its long neck into its shell, it squirts out water with vigorous force.",
+      "type": [
+        "Water"
+      ],
+      "base": {
+        "HP": 44,
+        "Attack": 48,
+        "Defense": 65,
+        "Sp. Attack": 50,
+        "Sp. Defense": 64,
+        "Speed": 43
+      }
+    },
+    [
+      {
+        "id": 8,
+        "name": {
+          "english": "Wartortle",
+          "french": "Carabaffe"
+        },
+        "type": [
+          "Water"
+        ],
+        "base": {
+          "HP": 59,
+          "Attack": 63,
+          "Defense": 80,
+          "Sp. Attack": 65,
+          "Sp. Defense": 80,
+          "Speed": 58
+        }
+      }
+    ],
+    {
+      "id": 7,
+      "name": {
+        "english": "Squirtle",
+        "french": "Carapuce"
+      },
+      "description": "When it retracts its long neck into its shell, it squirts out water with vigorous force.",
+      "type": [
+        "Water"
+      ],
+      "base": {
+        "HP": 44,
+        "Attack": 48,
+        "Defense": 65,
+        "Sp. Attack": 50,
+        "Sp. Defense": 64,
+        "Speed": 43
+      }
+    },
+    [
+      {
+        "id": 8,
+        "name": {
+          "english": "Wartortle",
+          "french": "Carabaffe"
+        },
+        "type": [
+          "Water"
+        ],
+        "base": {
+          "HP": 59,
+          "Attack": 63,
+          "Defense": 80,
+          "Sp. Attack": 65,
+          "Sp. Defense": 80,
+          "Speed": 58
+        }
+      }
+    ],
+    {
+      "id": 7,
+      "name": {
+        "english": "Squirtle",
+        "french": "Carapuce"
+      },
+      "description": "When it retracts its long neck into its shell, it squirts out water with vigorous force.",
+      "type": [
+        "Water"
+      ],
+      "base": {
+        "HP": 44,
+        "Attack": 48,
+        "Defense": 65,
+        "Sp. Attack": 50,
+        "Sp. Defense": 64,
+        "Speed": 43
+      }
+    },
+    [
+      {
+        "id": 8,
+        "name": {
+          "english": "Wartortle",
+          "french": "Carabaffe"
+        },
+        "type": [
+          "Water"
+        ],
+        "base": {
+          "HP": 59,
+          "Attack": 63,
+          "Defense": 80,
+          "Sp. Attack": 65,
+          "Sp. Defense": 80,
+          "Speed": 58
+        }
+      }
+    ],
+    {
+      "id": 7,
+      "name": {
+        "english": "Squirtle",
+        "french": "Carapuce"
+      },
+      "description": "When it retracts its long neck into its shell, it squirts out water with vigorous force.",
+      "type": [
+        "Water"
+      ],
+      "base": {
+        "HP": 44,
+        "Attack": 48,
+        "Defense": 65,
+        "Sp. Attack": 50,
+        "Sp. Defense": 64,
+        "Speed": 43
+      }
+    },
+    [
+      {
+        "id": 8,
+        "name": {
+          "english": "Wartortle",
+          "french": "Carabaffe"
+        },
+        "type": [
+          "Water"
+        ],
+        "base": {
+          "HP": 59,
+          "Attack": 63,
+          "Defense": 80,
+          "Sp. Attack": 65,
+          "Sp. Defense": 80,
+          "Speed": 58
+        }
+      }
+    ],
+    {
+      "id": 7,
+      "name": {
+        "english": "Squirtle",
+        "french": "Carapuce"
+      },
+      "description": "When it retracts its long neck into its shell, it squirts out water with vigorous force.",
+      "type": [
+        "Water"
+      ],
+      "base": {
+        "HP": 44,
+        "Attack": 48,
+        "Defense": 65,
+        "Sp. Attack": 50,
+        "Sp. Defense": 64,
+        "Speed": 43
+      }
+    },
+    [
+      {
+        "id": 8,
+        "name": {
+          "english": "Wartortle",
+          "french": "Carabaffe"
+        },
+        "type": [
+          "Water"
+        ],
+        "base": {
+          "HP": 59,
+          "Attack": 63,
+          "Defense": 80,
+          "Sp. Attack": 65,
+          "Sp. Defense": 80,
+          "Speed": 58
+        }
+      }
+    ],
+    {
+      "id": 7,
+      "name": {
+        "english": "Squirtle",
+        "french": "Carapuce"
+      },
+      "description": "When it retracts its long neck into its shell, it squirts out water with vigorous force.",
+      "type": [
+        "Water"
+      ],
+      "base": {
+        "HP": 44,
+        "Attack": 48,
+        "Defense": 65,
+        "Sp. Attack": 50,
+        "Sp. Defense": 64,
+        "Speed": 43
+      }
+    },
+    {
+      "id": 7,
+      "name": {
+        "english": "Squirtle",
+        "french": "Carapuce"
+      },
+      "description": "When it retracts its long neck into its shell, it squirts out water with vigorous force.",
+      "type": [
+        "Water"
+      ],
+      "base": {
+        "HP": 44,
+        "Attack": 48,
+        "Defense": 65,
+        "Sp. Attack": 50,
+        "Sp. Defense": 64,
+        "Speed": 43
+      }
+    }
+  ]

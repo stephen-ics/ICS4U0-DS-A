@@ -1,0 +1,32 @@
+[
+    {
+      "name": "joe",
+      "level": 5, 
+      "hp": 44,
+      "attack": 48,
+      "defense": 65,
+      "speed": 43,
+      "type": "Water",
+      "wearingSunglasses":true
+    },
+      {
+      "name": "bob",
+      "level": 7, 
+      "hp": 44,
+      "attack": 48,
+      "defense": 65,
+      "speed": 43,
+      "type": "Water",
+      "wearingSunglasses":false
+    },
+      {
+      "name": "sammy",
+      "level": 23, 
+      "hp": 44,
+      "attack": 48,
+      "defense": 65,
+      "speed": 43,
+      "type": "Water",
+      "wearingSunglasses":true
+    }
+  ]
